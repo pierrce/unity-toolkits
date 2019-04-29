@@ -3,6 +3,10 @@
 ### Disclaimer
 This readme will get better as time goes on. Thank you for your patience.
 
+## Installation
+
+- Click either clone this into your Unity project through [git](https://git-scm.com/downloads), or install it manually by clicking: Clone or download -> Download Zip -> Extract Folder -> Place Folder Anywhere in your Unity Project
+
 ## Functionality
 
 ### Avatar Toolkit  

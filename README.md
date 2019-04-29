@@ -5,7 +5,7 @@ This readme will get better as time goes on. Thank you for your patience.
 
 ## Installation
 
-- Click either clone this into your Unity project through [git](https://git-scm.com/downloads), or [click here.](https://github.com/pierrce/unity-toolkits/archive/master.zip)
+- Clone this into your Unity project through [git](https://git-scm.com/downloads), or [click here.](https://github.com/pierrce/unity-toolkits/archive/master.zip) Once downloaded, extract the folder and place it anywhere in your Unity Project.
 
 ## Functionality
 
